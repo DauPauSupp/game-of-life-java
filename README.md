@@ -1,8 +1,8 @@
 # game-of-life-java
 Conway's Game of Life on Java
 
-Control:
+Control:<br>
   Space - Start/Pause<br>
-  Up/Down - Speed control
-  Right - 1 iteration
-  Mouse - Drawing/Earsing
+  Up/Down - Speed control<br>
+  Right - 1 iteration<br>
+  Mouse - Drawing/Earsing<br>
